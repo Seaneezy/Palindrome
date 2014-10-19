@@ -1,5 +1,6 @@
 __author__ = 'ss'
 def palin(x):
-    listA=int([])
-    l=len(x)
-    
+
+n=input("enter text to be reversed: ")
+palin(n)
+print(n)
