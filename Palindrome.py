@@ -1,3 +1,5 @@
 __author__ = 'ss'
-def palin(letters):
+def palin(x):
+    listA=int([])
+    l=len(x)
     
